@@ -1,8 +1,4 @@
 /******************************************************************************************************************
-@File:  	DS18B20 Sensor
-@Author:  Khue Nguyen
-@Website: khuenguyencreator.com
-@Youtube: https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg
 Huong dan su dung:
 - Su dung thu vien HAL
 - Khoi tao bien DS18B20 : DS18B20_Name DS1;

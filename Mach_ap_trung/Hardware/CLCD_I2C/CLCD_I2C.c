@@ -1,8 +1,4 @@
 /******************************************************************************************************************
-@File:  	CLCD I2C Chip PCF8574
-@Author:  Khue Nguyen
-@Website: khuenguyencreator.com
-@Youtube: https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg
 Huong dan su dung:
 - Su dung thu vien HAL
 - Khoi tao bien LCD: CLCD_I2C_Name LCD1;

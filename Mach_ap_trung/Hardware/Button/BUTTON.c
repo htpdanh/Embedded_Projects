@@ -1,8 +1,4 @@
 /*****************************************************************************************************
-@File:		Button 
-@Author:  khuenguyen
-@website: khuenguyencreator.com
-@youtube: https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg
 @huong dan su dung:
 - Cau hinh cac chan vao Button la Input_pullup
 - Khoi tao Bien luu gia tri Button:

@@ -1,7 +1,4 @@
 /*****************************************************************************************************
-@tac gia: khuenguyen
-@website: khuenguyencreator.com
-@youtube: https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg
 @huong dan su dung:
 - Khoi tao timer dem moi 1us VD: fapb2 = 72 mhz. prescaler = 72 -1, ARR = 0xFFFF -1 
 - Truyen timer do vao delay Init VD: DELAY_TIM_Init(&htim1)

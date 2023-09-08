@@ -1,8 +1,4 @@
 /******************************************************************************************************************
-@File:  	DHT Sensor
-@Author:  Khue Nguyen
-@Website: khuenguyencreator.com
-@Youtube: https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg
 Huong dan su dung:
 - Su dung thu vien HAL
 - Khoi tao bien DHT : DHT_Name DHT1;

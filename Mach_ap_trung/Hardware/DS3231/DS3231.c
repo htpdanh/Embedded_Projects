@@ -1,8 +1,4 @@
 /******************************************************************************************************************
-@File:  	DS3231 RTC Module
-@Author:  Khue Nguyen
-@Website: khuenguyencreator.com
-@Youtube: https://www.youtube.com/channel/UCt8cFnPOaHrQXWmVkk-lfvg
 Huong dan su dung:
 - Su dung thu vien HAL
 - Khoi tao I2C cho Ds3231
