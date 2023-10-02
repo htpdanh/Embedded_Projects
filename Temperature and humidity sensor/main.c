@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.h"`
 #include "tempandhumid.h"
 
 /* 	1- set up chan PB12 o dang OUT_PP_OD
@@ -7,6 +7,9 @@
 
 int main ()
 {
+	/*Danh ho is here*/
+	/*use git*/
+	
 	GPIO_Config();
 	Timer2_StandardLibrary();
 	Uart_Init();
