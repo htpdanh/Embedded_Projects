@@ -7,6 +7,7 @@
 
 int main ()
 {
+	/*use git*/
 	GPIO_Config();
 	Timer2_StandardLibrary();
 	Uart_Init();
